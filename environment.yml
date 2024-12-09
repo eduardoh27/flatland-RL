@@ -1,0 +1,14 @@
+name: flatland3-rl
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - psutil==5.7.2
+  - pytorch==1.6.0
+  - pip
+  - python==3.8
+  - pip:
+      - tensorboard==2.3.0
+      - tensorboardx==2.1
+      - flatland-rl
