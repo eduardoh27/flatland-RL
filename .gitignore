@@ -131,5 +131,5 @@ scratch/
 replay_buffers/*
 !replay_buffers/.gitkeep
 
-
-SAC/
+SAC/*.gif
+SAC/*.pth
